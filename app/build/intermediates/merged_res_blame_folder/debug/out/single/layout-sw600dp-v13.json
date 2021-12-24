@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-sw600dp-v13\\fragment_landing_list.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout-sw600dp\\fragment_landing_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-sw600dp-v13\\fragment_landing_detail.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout-sw600dp\\fragment_landing_detail.xml"
+    }
+]

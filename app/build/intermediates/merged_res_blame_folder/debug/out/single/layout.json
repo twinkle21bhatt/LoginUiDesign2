@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_otp.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_home.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\landing_list_content.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\landing_list_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_company_information.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_company_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_landing_detail.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\fragment_landing_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_landing_detail.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_landing_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_background_image.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_background_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_home.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_home.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_landing_list.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\fragment_landing_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]
