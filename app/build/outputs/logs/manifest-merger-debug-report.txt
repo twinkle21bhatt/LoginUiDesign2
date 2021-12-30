@@ -19,6 +19,7 @@ MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\DELL\.gradle\cach
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\DELL\.gradle\caches\transforms-3\7c6beb6a412320025580003e4f2cd185\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\DELL\.gradle\caches\transforms-3\1a9b2eddef27b3fbb95a27c9edbafe1a\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\DELL\.gradle\caches\transforms-3\722a9285bfc72b74853d70b7928af65a\transformed\jetified-showhidepasswordedittext-0.8\AndroidManifest.xml:2:1-14:12
+MERGED from [io.github.chaosleung:pinview:1.4.4] C:\Users\DELL\.gradle\caches\transforms-3\8a1bc4a44f5ffad6f6cf422f264ba7eb\transformed\jetified-pinview-1.4.4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\DELL\.gradle\caches\transforms-3\8563245a0afdc7edd62b51e69185d27c\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\6e3912461802c743a2bf45f396407c21\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.3.0-alpha01] C:\Users\DELL\.gradle\caches\transforms-3\4d8259883d4a1d00814efa832a20217d\transformed\recyclerview-1.3.0-alpha01\AndroidManifest.xml:17:1-24:12
@@ -287,6 +288,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\DELL\.gr
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\DELL\.gradle\caches\transforms-3\1a9b2eddef27b3fbb95a27c9edbafe1a\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\DELL\.gradle\caches\transforms-3\722a9285bfc72b74853d70b7928af65a\transformed\jetified-showhidepasswordedittext-0.8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\DELL\.gradle\caches\transforms-3\722a9285bfc72b74853d70b7928af65a\transformed\jetified-showhidepasswordedittext-0.8\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.chaosleung:pinview:1.4.4] C:\Users\DELL\.gradle\caches\transforms-3\8a1bc4a44f5ffad6f6cf422f264ba7eb\transformed\jetified-pinview-1.4.4\AndroidManifest.xml:20:5-22:41
+MERGED from [io.github.chaosleung:pinview:1.4.4] C:\Users\DELL\.gradle\caches\transforms-3\8a1bc4a44f5ffad6f6cf422f264ba7eb\transformed\jetified-pinview-1.4.4\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\DELL\.gradle\caches\transforms-3\8563245a0afdc7edd62b51e69185d27c\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\DELL\.gradle\caches\transforms-3\8563245a0afdc7edd62b51e69185d27c\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\6e3912461802c743a2bf45f396407c21\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41

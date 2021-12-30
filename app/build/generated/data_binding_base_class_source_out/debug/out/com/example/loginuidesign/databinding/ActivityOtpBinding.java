@@ -5,13 +5,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.chaos.view.PinView;
 import com.example.loginuidesign.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -22,24 +22,29 @@ public final class ActivityOtpBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button btnVerify;
+  public final Button button;
 
   @NonNull
-  public final EditText phone;
+  public final PinView pinView;
 
   @NonNull
-  public final TextView textView3;
+  public final ConstraintLayout secondStep;
 
   @NonNull
-  public final EditText txtOTP;
+  public final TextView textViewNoti;
 
-  private ActivityOtpBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnVerify,
-      @NonNull EditText phone, @NonNull TextView textView3, @NonNull EditText txtOTP) {
+  @NonNull
+  public final TextView topText;
+
+  private ActivityOtpBinding(@NonNull ConstraintLayout rootView, @NonNull Button button,
+      @NonNull PinView pinView, @NonNull ConstraintLayout secondStep,
+      @NonNull TextView textViewNoti, @NonNull TextView topText) {
     this.rootView = rootView;
-    this.btnVerify = btnVerify;
-    this.phone = phone;
-    this.textView3 = textView3;
-    this.txtOTP = txtOTP;
+    this.button = button;
+    this.pinView = pinView;
+    this.secondStep = secondStep;
+    this.textViewNoti = textViewNoti;
+    this.topText = topText;
   }
 
   @Override
@@ -69,32 +74,38 @@ public final class ActivityOtpBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btnVerify;
-      Button btnVerify = ViewBindings.findChildViewById(rootView, id);
-      if (btnVerify == null) {
+      id = R.id.button;
+      Button button = ViewBindings.findChildViewById(rootView, id);
+      if (button == null) {
         break missingId;
       }
 
-      id = R.id.phone;
-      EditText phone = ViewBindings.findChildViewById(rootView, id);
-      if (phone == null) {
+      id = R.id.pinView;
+      PinView pinView = ViewBindings.findChildViewById(rootView, id);
+      if (pinView == null) {
         break missingId;
       }
 
-      id = R.id.textView3;
-      TextView textView3 = ViewBindings.findChildViewById(rootView, id);
-      if (textView3 == null) {
+      id = R.id.secondStep;
+      ConstraintLayout secondStep = ViewBindings.findChildViewById(rootView, id);
+      if (secondStep == null) {
         break missingId;
       }
 
-      id = R.id.txtOTP;
-      EditText txtOTP = ViewBindings.findChildViewById(rootView, id);
-      if (txtOTP == null) {
+      id = R.id.textView_noti;
+      TextView textViewNoti = ViewBindings.findChildViewById(rootView, id);
+      if (textViewNoti == null) {
         break missingId;
       }
 
-      return new ActivityOtpBinding((ConstraintLayout) rootView, btnVerify, phone, textView3,
-          txtOTP);
+      id = R.id.topText;
+      TextView topText = ViewBindings.findChildViewById(rootView, id);
+      if (topText == null) {
+        break missingId;
+      }
+
+      return new ActivityOtpBinding((ConstraintLayout) rootView, button, pinView, secondStep,
+          textViewNoti, topText);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

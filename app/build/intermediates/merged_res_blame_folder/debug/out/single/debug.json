@@ -72,12 +72,12 @@
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue_fill__rounded_color.xml.flat",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\drawable\\blue_fill__rounded_color.xml"
-    },
-    {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_home.xml.flat",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\drawable\\ic_menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue_fill__rounded_color.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\drawable\\blue_fill__rounded_color.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_landing_detail.xml.flat",
@@ -98,6 +98,10 @@
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_linkedin.png.flat",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_otp_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\drawable\\otp_background.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\drawable_smart_logo.png.flat",
@@ -136,6 +140,10 @@
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\menu\\home.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\layout_edittext_basckground.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\edittext_basckground.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
@@ -160,6 +168,10 @@
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\layout_button_background.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\button_background.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_company_information.xml.flat",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_company_information.xml"
     },
@@ -182,6 +194,10 @@
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_gallery.xml.flat",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\font_baloo.ttf.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\font\\baloo.ttf"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_slideshow.xml.flat",

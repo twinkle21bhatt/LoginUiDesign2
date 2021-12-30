@@ -4,6 +4,10 @@
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_otp.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\button_background.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\button_background.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_home.xml",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\content_home.xml"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\edittext_basckground.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\src\\main\\res\\layout\\edittext_basckground.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\LoginUiDesign2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_landing_detail.xml",

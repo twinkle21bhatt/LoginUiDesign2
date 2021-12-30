@@ -34,7 +34,7 @@
             <TextView
                 android:layout_width="35dp"
                 android:layout_height="5dp"
-                android:background="@drawable/onboarding_dotunselected"/>
+                android:background="@drawable/final_background.png"/>
             <TextView
                 android:layout_width="35dp"
                 android:layout_height="5dp"
@@ -51,22 +51,10 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:background="@drawable/onboarding_button"
-            android:text="LOGIN"
+            android:text="Scan"
             android:textColor="@color/whiteTextColor"
             android:textSize="20dp"
             android:layout_margin="10dp"/>
-
-        <TextView
-            android:id="@+id/btn_skip"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="SKIP INTRO"
-            android:layout_gravity="center"
-            android:textSize="16dp"
-            android:textStyle="bold"
-            android:textColor="#0747F9"
-            android:layout_marginBottom="10dp"/>
-
 
 
     </LinearLayout>
